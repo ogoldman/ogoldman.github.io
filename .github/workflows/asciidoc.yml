@@ -6,5 +6,5 @@ jobs:
   convert:
     runs-on: ubuntu-latest
     steps:
-      uses: actions/checkout@v3
-      uses: manoelcampos/asciidoctor-ghpages-action@v2.2.4
+      - uses: actions/checkout@v3
+      - uses: manoelcampos/asciidoctor-ghpages-action@v2.2.4
