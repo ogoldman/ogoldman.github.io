@@ -8,3 +8,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: manoelcampos/asciidoctor-ghpages-action@v2.2.4
+          with:
+          asciidoctor_params: --attribute=linkcss --attribute=nofooter
