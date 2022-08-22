@@ -1,2 +1,5 @@
 = Reviews
 
+These are books directly related to software architecture and which I've read.
+
+* link:Bass2022.html[_Software Architecture in Practice_]
