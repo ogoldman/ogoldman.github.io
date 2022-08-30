@@ -1,1 +1,7 @@
 = Architecture
+
+An _architecture_ is the set of components that compose a system, the relationships between them, and the principles that govern those over time.
+
+Relationships and principles can be both positive, describing what can be done, and negative, describing constraints that should not be violated.
+
+An architecture is similar to a _design language_. However, design languages tend to place an emphasis on construction (available elements, and how they can be combined) and less so on contraints. See link:/reviews/Winograd96[Winograd96], Chapter 4.
