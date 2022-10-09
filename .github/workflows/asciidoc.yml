@@ -1,0 +1,12 @@
+name: asciidoc-to-gh-pages
+
+on: [push]
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: manoelcampos/asciidoctor-ghpages-action@v2.2.4
+        with:
+          asciidoctor_params: --attribute=nofooter
