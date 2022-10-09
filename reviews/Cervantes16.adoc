@@ -1,8 +1,0 @@
-= Review
-
-== Design Software Architectures: A Practical Approach
-
-Humberto Cervantes and Rick Kasman
-
-Addison Wesley, 2016
-

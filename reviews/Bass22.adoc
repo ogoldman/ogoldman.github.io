@@ -1,5 +1,0 @@
-= Review
-
-== Software Architecture in Practice
-
-A broad but shallow overview of the field. Its breadth is striking: it explains architecture and why its important; defines the attributes that architectures achieve, describes solutions, practices, and process, and touches on the role of architecture in organizations and projects. Now in its fourth edition, it contains current information about recent developments in cloud architecture and quantum computing. Perhaps inevitably given its ambition, many important topics are granted only a few sentences of explanation. Well organized but a somewhat ponderous read, it is best kept on hand as an accessible reference. Anyone wanting to dive deep on a particular topic will be better served by other titles.

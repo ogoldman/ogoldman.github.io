@@ -1,8 +1,0 @@
-= Application
-
-An _application_ is a set of connected link:element[elements] presented to a link:user[] as a whole and organized around a cohesive task.
-
-An application need not have a singular user interface. For example, an application that runs both in web browsers and on mobile devices might do so via two discrete implementations. However, an application must have some user interface; otherwise it is only a link:program[], or perhaps a link:service[].
-
-Applications often contain elements that run somewhat independently. For example, user interface elements typically run on user-owned devices but connect with cloud services. If such a service is used only or primarily by other elements of the application, then the service itself can be considered part of the application.
- 

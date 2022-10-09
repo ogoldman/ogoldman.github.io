@@ -1,9 +1,0 @@
-
-
-= _Software Architecture: Foundations, Theory, and Practice_
-
-Richard N. Taylor, Nenad Medvidovic, Eric M. Dashofy
-
-Wiley, 2010
-
-This is _the_ textbook for your college-level software architecture class, assuming one existed at your school. One of the few texts that consistently considers architectures outside cloud computing.
